@@ -1,0 +1,16 @@
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.exe
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.deps.json
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.runtimeconfig.json
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.runtimeconfig.dev.json
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.dll
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\ref\cursobasico.dll
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\bin\Debug\net5.0\cursobasico.pdb
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.csproj.AssemblyReference.cache
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.AssemblyInfoInputs.cache
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.AssemblyInfo.cs
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.csproj.CoreCompileInputs.cache
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.dll
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\ref\cursobasico.dll
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.pdb
+C:\Users\Pokédex\Desktop\end\Projectos C#\cursobasico\obj\Debug\net5.0\cursobasico.genruntimeconfig.cache
